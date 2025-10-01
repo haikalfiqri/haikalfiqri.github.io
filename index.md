@@ -15,8 +15,10 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-## Title
+##My Biography
 
 Body
+Name : MUHAMMAD HAIKAL FIQRI BIN MOHD RAMDHAN
+Department : Artificial Intelligence
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
