@@ -15,9 +15,8 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-##My Biography
+## My Biography
 
-Body
 Name : MUHAMMAD HAIKAL FIQRI BIN MOHD RAMDHAN
 Department : Artificial Intelligence
 
