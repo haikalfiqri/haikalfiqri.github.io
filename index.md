@@ -1,5 +1,5 @@
 ---
-title: "MyTitle."
+title: "who is me"
 layout: splash
 header:
   overlay_color: "#fff"
@@ -17,6 +17,6 @@ intro:
 
 ## Title
 
-Body
+the pass in the feature is the feature in the past
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
